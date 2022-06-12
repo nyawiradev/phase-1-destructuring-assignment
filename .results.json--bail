@@ -1,0 +1,178 @@
+{
+  "stats": {
+    "suites": 1,
+    "tests": 8,
+    "passes": 0,
+    "pending": 0,
+    "failures": 8,
+    "start": "2022-06-12T17:37:07.068Z",
+    "end": "2022-06-12T17:37:07.535Z",
+    "duration": 467
+  },
+  "tests": [
+    {
+      "title": "String: uses destructuring to declare five animal sounds",
+      "fullTitle": "index.js String: uses destructuring to declare five animal sounds",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: moo is not defined\n    at Context.<anonymous> (test/indexTest.js:5:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "moo is not defined"
+      }
+    },
+    {
+      "title": "String: uses destructuring to declare the four traditional animal names",
+      "fullTitle": "index.js String: uses destructuring to declare the four traditional animal names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: bessie is not defined\n    at Context.<anonymous> (test/indexTest.js:17:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "bessie is not defined"
+      }
+    },
+    {
+      "title": "String: uses destructuring to declare the three traditional animal colors",
+      "fullTitle": "index.js String: uses destructuring to declare the three traditional animal colors",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: blackAndWhite is not defined\n    at Context.<anonymous> (test/indexTest.js:27:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "blackAndWhite is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "fullTitle": "index.js Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: red is not defined\n    at Context.<anonymous> (test/indexTest.js:35:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "red is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare six rainbow color variables using initials",
+      "fullTitle": "index.js Array: uses destructuring to declare six rainbow color variables using initials",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: r is not defined\n    at Context.<anonymous> (test/indexTest.js:51:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "r is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare Indigo using indg",
+      "fullTitle": "index.js Array: uses destructuring to declare Indigo using indg",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: indg is not defined\n    at Context.<anonymous> (test/indexTest.js:65:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "indg is not defined"
+      }
+    },
+    {
+      "title": "Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "fullTitle": "index.js Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: muppetName is not defined\n    at Context.<anonymous> (test/indexTest.js:70:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "muppetName is not defined"
+      }
+    },
+    {
+      "title": "Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "fullTitle": "index.js Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: song2 is not defined\n    at Context.<anonymous> (test/indexTest.js:83:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "song2 is not defined"
+      }
+    }
+  ],
+  "pending": [],
+  "failures": [
+    {
+      "title": "String: uses destructuring to declare five animal sounds",
+      "fullTitle": "index.js String: uses destructuring to declare five animal sounds",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: moo is not defined\n    at Context.<anonymous> (test/indexTest.js:5:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "moo is not defined"
+      }
+    },
+    {
+      "title": "String: uses destructuring to declare the four traditional animal names",
+      "fullTitle": "index.js String: uses destructuring to declare the four traditional animal names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: bessie is not defined\n    at Context.<anonymous> (test/indexTest.js:17:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "bessie is not defined"
+      }
+    },
+    {
+      "title": "String: uses destructuring to declare the three traditional animal colors",
+      "fullTitle": "index.js String: uses destructuring to declare the three traditional animal colors",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: blackAndWhite is not defined\n    at Context.<anonymous> (test/indexTest.js:27:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "blackAndWhite is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "fullTitle": "index.js Array: uses destructuring to declare the seven traditional rainbow color variables using the color names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: red is not defined\n    at Context.<anonymous> (test/indexTest.js:35:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "red is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare six rainbow color variables using initials",
+      "fullTitle": "index.js Array: uses destructuring to declare six rainbow color variables using initials",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: r is not defined\n    at Context.<anonymous> (test/indexTest.js:51:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "r is not defined"
+      }
+    },
+    {
+      "title": "Array: uses destructuring to declare Indigo using indg",
+      "fullTitle": "index.js Array: uses destructuring to declare Indigo using indg",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: indg is not defined\n    at Context.<anonymous> (test/indexTest.js:65:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "indg is not defined"
+      }
+    },
+    {
+      "title": "Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "fullTitle": "index.js Object: uses destructuring to assign all appropriate variables using the keys as the variable names",
+      "duration": 0,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: muppetName is not defined\n    at Context.<anonymous> (test/indexTest.js:70:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "muppetName is not defined"
+      }
+    },
+    {
+      "title": "Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "fullTitle": "index.js Object: uses destructuring to assign songs 2 and 4, and Kermit's job and partner",
+      "duration": 1,
+      "currentRetry": 0,
+      "err": {
+        "stack": "ReferenceError: song2 is not defined\n    at Context.<anonymous> (test/indexTest.js:83:12)\n    at processImmediate (node:internal/timers:466:21)",
+        "message": "song2 is not defined"
+      }
+    }
+  ],
+  "passes": []
+}
